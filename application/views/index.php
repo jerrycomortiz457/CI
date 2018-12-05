@@ -13,6 +13,6 @@
     <script  src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore.js"></script> 
 </head>
 <body>
-    <h1>Index Page</h1>    
+    <h1>Start!</h1>    
 </body>
 </html>
